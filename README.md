@@ -18,3 +18,7 @@ In April 2019 we provided data analysis and visualisation as part of a [report o
 ## Visualisation
 
 * Column chart: exclusions in England, 2012/13 - 2016/17
+
+## Related stories
+
+* You can find all related stories [tagged 'exclusions'](https://github.com/search?q=topic%3Aexclusions+org%3ABBC-Data-Unit&type=Repositories).
